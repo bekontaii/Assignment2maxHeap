@@ -59,7 +59,9 @@ n = 100, 1000, 10000, 100000
 
 # 🧾 Report
 
-📄 Assignment2_MaxHeap_Report_Uzbekbayev_Bekarys.pdf
+📄[Assignment2_MaxHeap_Report_Uzbekbayev_Bekarys.pdf](https://github.com/user-attachments/files/22697487/Assignment2_MaxHeap_Report_Uzbekbayev_Bekarys.pdf)
+
+
 
 Contains:
 
