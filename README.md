@@ -60,7 +60,7 @@ Graphs are provided in the `docs/` folder.
 ---
 
 ## 🧾 Report
-
+[Report.pdf](https://github.com/user-attachments/files/22710796/AnalysisReport.pdf)
 
 Contains:
 - Algorithm overview  
@@ -70,7 +70,7 @@ Contains:
 - Final conclusions  
 
 ### 📄 `analysis-report.pdf`
-[AnalysisReport.pdf](https://github.com/user-attachments/files/22710796/AnalysisReport.pdf)
+[report-partner.pdf](https://github.com/user-attachments/files/22710913/analysis-report.1.pdf)
 - Individual peer review of partner’s Min-Heap algorithm.
 
 
